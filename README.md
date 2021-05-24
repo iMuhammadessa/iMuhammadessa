@@ -24,13 +24,6 @@
 
 ---
 
-<details>
-  <summary>Muhammad Essa - Github Statistics</summary>
-
-  <img align="left" alt="iMuhammadessa GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=iMuhammadessa&show_icons=true&hide_border=true" />
-
-</details>
-
 [website]: https://www.muhammadessa.ml/
 [twitter]: https://twitter.com/iMuhammadessa
 [instagram]: https://www.insatagram.com/imuhammadessa/
