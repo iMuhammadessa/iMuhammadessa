@@ -25,6 +25,6 @@
 ---
 
 [website]: https://www.muhammadessa.ml/
-[twitter]: https://twitter.com/iMuhammadessa
+[twitter]: https://twitter.com/imuhammadessa
 [instagram]: https://www.insatagram.com/imuhammadessa/
 [linkedin]: https://www.linkedin.com/in/imuhammadessa/
