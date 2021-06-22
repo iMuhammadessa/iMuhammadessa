@@ -6,8 +6,8 @@
 
 ## I'm a Husband, Father, & Developer
 
-- 🌱 I’m currently learning Front-End Development
-- 👯 I’m looking to collaborate with Open Source Projects
+- 🌱 I’m currently learning Web Development
+- 👯 I’m looking to contribute to Open Source Projects
 - 🥅 2021 Goals: Web Development / 6-Books / Internship
 - ⚡ Interest: I Love to CODE and Play CHESS
 
