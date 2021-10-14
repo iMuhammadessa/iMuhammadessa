@@ -6,25 +6,13 @@
 
 ## I'm a Husband, Father, & Developer
 
-- 🌱 I’m currently learning Web Development
-- 👯 I’m looking to contribute to Open Source Projects
-- 🥅 2021 Goals: Web Development / 6-Books / Internship
-- ⚡ Interest: I Love to CODE and Play CHESS
+- 👯 I’m looking to contribute to Open Source Projects.
+- 💬 Ask me about javascript or any tech related stuff.
+- 📫 How to reach me: Twitter [@iMuhammadessa](https://twitter.com/imuhammadessa) - LinkedIn [@iMuhammadessa](https://www.linkedin.com/in/imuhammadessa/)
+___
+<br>
 
-### Connect with me:
+ <img src = "https://github-readme-stats.vercel.app/api?username=imuhammadessa&&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=000000&bg_color=ECFF33">
 
-<br />
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
----
-
-[website]: https://www.muhammadessa.ml/
-[twitter]: https://twitter.com/imuhammadessa
-[instagram]: https://www.insatagram.com/imuhammadessa/
-[linkedin]: https://www.linkedin.com/in/imuhammadessa/
+[website]: https://www.muhammadessa.com/
