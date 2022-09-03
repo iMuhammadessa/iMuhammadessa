@@ -14,7 +14,6 @@ ___
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.muhammadessa.com"><img src="https://img.shields.io/badge/-muhammadessa.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/imuhammadessa"><img src="https://img.shields.io/badge/-Muhammad%20Essa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:imuhammadessa@gmail.com"><img src="https://img.shields.io/badge/-imuhammadessa@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/imuhammadessa"><img src="https://img.shields.io/badge/-@imuhammadessa-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
@@ -35,4 +34,4 @@ ___
 
 ---
 
-[website]: https://www.twitter.com/imuhammadessa/
+[website]: https://twitter.com/imuhammadess
