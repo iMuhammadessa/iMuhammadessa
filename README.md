@@ -6,8 +6,8 @@
 
 ## I'm a Husband, Father, & Developer
 
-- 👯 I’m looking to contribute to Open Source Projects.
-- 💬 Ask me about javascript or any tech related stuff.
+- 👯 I’m looking to work for a company, remotely.
+- 💬 Ask me about JavaScript or any tech related stuff.
 - 📫 How to reach me: Twitter [@iMuhammadessa](https://twitter.com/imuhammadessa) - LinkedIn [@iMuhammadessa](https://www.linkedin.com/in/imuhammadessa/)
 ___
 
