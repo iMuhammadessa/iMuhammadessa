@@ -2,4 +2,4 @@
 - 👀 I’m interested in front-end web development. 
 - 🌱 I’m currently learning Javascript/React.
 - 💞️ I’m looking to collaborate on transfering a psd`s into front-end application.
-- 📫 You may contact me through my emai: imuhammadessa@gmail.com
+- 📫 You may contact me through my email: imuhammadessa@gmail.com or linkedin.com/in/imuhammadessa
