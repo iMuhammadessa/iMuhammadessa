@@ -1,6 +1,6 @@
 ### - 👋 Hey, I’m Muhammad Essa
-- 👀 I’m a front-end web developer. 
-- 🌱 I am currently working on React.js with material ui (MUI).
-- 💞️ I’m looking to collaborate on transferring UIs into front-end web applications / admin dashboard.
+- 👀 I’m a front-end developer from Pakistan.
+- 🌱 I've been programming for quite a few years, diving deep into the modern JavaScript world.
+- 💞️ My go-to stack is React and NextJS, but I'm always keeping an eye on the ecosystem for what comes next.
 - 📫 You may contact me through my email: imuhammadessa@gmail.com
 - 💬 Twitter [@imuhammadessa](https://twitter.com/imuhammadessa) - Linkedin [@imuhammadessa](https://www.linkedin.com/in/imuhammadessa/)
